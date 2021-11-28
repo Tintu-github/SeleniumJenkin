@@ -1,4 +1,4 @@
-package comm;
+package com.project;
 
 import org.junit.Assert;
 import org.junit.Test;
